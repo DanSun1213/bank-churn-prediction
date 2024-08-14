@@ -1,5 +1,6 @@
 # Bank Churn Prediction  🔚🏃💼🚪❌ 
 - LightGBM, CatBoost ( 0.8945 )
+- Tuned XGBoost Regression:  0.8655
 
 ## Columns Description:
 
