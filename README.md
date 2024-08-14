@@ -1,4 +1,5 @@
 # Bank Churn Prediction  🔚🏃💼🚪❌ 
+- LightGBM, CatBoost ( 0.8945 )
 
 ## Columns Description:
 
