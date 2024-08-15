@@ -1,0 +1,21 @@
+Model,Feature Set,Accuracy,F1 Score
+Random Forest,All Features,0.857,0.8431675092686215
+XGBoost,All Features,0.85,0.8389430894308942
+SVM,All Features,0.8475,0.825403400727901
+Logistic Regression,All Features,0.81,0.7688889439311751
+Neural Network,All Features,0.854,0.8400987083497526
+Random Forest,Top 5 Features,0.8265,0.8118949967175711
+XGBoost,Top 5 Features,0.82,0.8054868787191232
+SVM,Top 5 Features,0.821,0.7868410060161832
+Logistic Regression,Top 5 Features,0.779,0.7101511268228016
+Neural Network,Top 5 Features,0.8365,0.8182384907103133
+Random Forest,Balanced All Features,0.859,0.8438206951435591
+XGBoost,Balanced All Features,0.85,0.8389430894308942
+SVM,Balanced All Features,0.799,0.811206645256917
+Logistic Regression,Balanced All Features,0.6975,0.721618715083379
+Neural Network,Balanced All Features,0.854,0.8400987083497526
+Random Forest,Balanced Top 5 Features,0.831,0.8128063651011452
+XGBoost,Balanced Top 5 Features,0.82,0.8054868787191232
+SVM,Balanced Top 5 Features,0.7755,0.7899633154442457
+Logistic Regression,Balanced Top 5 Features,0.6925,0.7172173482923758
+Neural Network,Balanced Top 5 Features,0.8365,0.8182384907103133
